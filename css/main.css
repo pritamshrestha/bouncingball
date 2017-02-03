@@ -1,0 +1,8 @@
+/*this is for the canvas*/
+	
+#mycanvas{
+
+	border:1px solid blue;
+	background-color:black;
+	margin-top:50px;
+}
