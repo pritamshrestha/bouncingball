@@ -1,8 +1,6 @@
-/*this is for the canvas*/
-	
-#mycanvas{
-
-	border:1px solid blue;
-	background-color:black;
-	margin-top:50px;
-}
+/*this is for the css*/
+* { padding: 0; margin: 0; }
+    	canvas { background:black; 
+    		display: block; 
+    		margin-top:30px;
+    		margin-left:180px; }
